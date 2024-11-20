@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import HeroPic from "../../../Images/governor pic.png";
+import HeroPic from "../../../Images/governorpic.png";
 
 function Heroes() {
   return (
