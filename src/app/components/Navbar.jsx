@@ -4,7 +4,7 @@ import Link from "next/link";
 import React, { useState } from "react";
 import logo from "../../../Images/logo.png";
 
-function NavBar() {
+function Navbar() {
   const [isHamburger, setIsHamburger] = useState(false);
   const toggleMenu = ()=>{
     setIsHamburger(!isHamburger)
@@ -44,4 +44,4 @@ function NavBar() {
   );
 }
 
-export default NavBar;
+export default Navbar;

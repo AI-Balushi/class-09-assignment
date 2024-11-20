@@ -5,7 +5,7 @@ import Web2Nextjs from "../../../Images/web2NextJs.jpg";
 import EarnAsLearn from "../../../Images/EarnAsLearn.jpg";
 import AIImg from "../../../Images/AIImg.jpg";
 import Web3 from "../../../Images/Web3.jpg";
-import Cloud from "../../../Images/CloudNative.jpg";
+import Cloud from "../../../Images/CLoudNative.jpg";
 import Ambient from "../../../Images/Ambient.jpg";
 import Genomics from "../../../Images/Genomics.jpg";
 import Automation from "../../../Images/Automation.jpg";

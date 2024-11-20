@@ -9,7 +9,7 @@ import CourseSequence from "./components/CourseSequence";
 export default function Home() {
   return (
     <>
-    {/* <NavBar/> */}
+    {/* <Navbar/> */}
     <Heroes/>
     <CourseDetail/>
     <CourseSequence/>
